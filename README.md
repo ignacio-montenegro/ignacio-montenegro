@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ignacio-montenegro, graphic designer and front end developer jr.
+- 👋 Hi, I’m @ignacio-montenegro, graphic designer and trainee front end developer.
 
 Im from Buenos Aires, Argentina. 
 
